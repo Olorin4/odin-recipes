@@ -1,0 +1,33 @@
+h1 {
+    color: beige;
+}
+
+body {
+    text-align: center;
+    background-color: beige;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div {
+    padding: 10px;
+}
+
+li {
+    text-align: left;
+    color: beige;
+}
+
+.title {
+    background-color: rgb(148, 125, 125);
+    margin: auto;
+    width: 250px;
+    border: 2px solid rgb(76, 63, 170);
+}
+
+.recipes-list {
+    background-color: rgb(148, 125, 125);
+    margin: 8px auto;
+    width: 450px;
+    border: 2px solid blue;
+}
